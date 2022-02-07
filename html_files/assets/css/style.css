@@ -68,7 +68,7 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 h3, h4, h5, h6 { font-weight: 600; color: #043361; margin: 0 0 20px; }
 
-h1 { font-weight: 500; color: #043361; margin: 0 0 20px; }
+h1 { font-weight: 600; color: #20212b; margin: 0 0 20px; }
 
 h2 { color: #043361; font-weight: 500; margin: 2px 0px 15px; font-size: 157%; }
 
@@ -78,7 +78,7 @@ p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
 h1, h2, h3 { line-height: 1.1; }
 
-h1 { font-size: 28px; }
+h1 { font-size: 200%; }
 
 a { color: #39c; text-decoration: none; }
 
