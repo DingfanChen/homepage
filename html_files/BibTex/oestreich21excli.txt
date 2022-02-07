@@ -1,0 +1,11 @@
+@article{oestreich2021excli,
+title = {Privacy considerations for sharing genomics data},
+author = {Marie Oestreich and Dingfan Chen and Joachim L. Schultze and Mario Fritz and Matthias Becker},
+url = {https://www.excli.de/index.php/excli/article/view/4002},
+year = {2021},
+date = {2021-07-16},
+journal = {EXCLI Journal},
+keywords = {2021},
+pubstate = {published},
+tppubtype = {article}
+}

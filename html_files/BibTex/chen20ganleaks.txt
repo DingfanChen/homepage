@@ -1,0 +1,7 @@
+@inproceedings{chen2020ganleaks,
+author = {Dingfan Chen and Ning Yu and Yang Zhang and Mario Fritz},
+title = {GAN-Leaks: A Taxonomy of Membership Inference Attacks against Generative Models},
+booktitle = {ACM Conference on Computer and Communications Security (CCS)},
+url = {https://arxiv.org/abs/1909.03935},
+year = {2020}
+}

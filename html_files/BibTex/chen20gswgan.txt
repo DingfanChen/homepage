@@ -1,0 +1,9 @@
+@inproceedings{chen2020gswgan,
+title = {GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators},
+author = {Dingfan Chen and Tribhuvanesh Orekondy and Mario Fritz},
+year = {2020},
+date = {2020-12-06},
+booktitle = {Neural Information Processing Systems (NeurIPS)},
+pubstate = {published},
+tppubtype = {inproceedings}
+}

@@ -1,0 +1,6 @@
+@inproceedings{chen2022relaxloss,
+  title={RelaxLoss: Defending Membership Inference Attacks without Losing Utility},
+  author={Chen, Dingfan and Yu, Ning and Fritz, Mario},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2022}
+}
