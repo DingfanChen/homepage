@@ -1,0 +1,7 @@
+@inproceedings{chen2021badnl,
+  title={BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements},
+  author={Chen, Xiaoyi and Salem, Ahmed and Chen, Dingfan and Backes, Michael and Ma, Shiqing and Shen, Qingni and Wu, Zhonghai and Zhang, Yang},
+  booktitle={Annual Computer Security Applications Conference (ACSAC)},
+  pages={554--569},
+  year={2021}
+}
