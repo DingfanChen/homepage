@@ -1,0 +1,8 @@
+@inproceedings{chen2022privateset,
+title = {Private Set Generation with Discriminative Information},
+author = {Chen, Dingfan and Kerkouche, Raouf and Fritz, Mario},
+booktitle = {Neural Information Processing Systems (NeurIPS)},
+year = {2022},
+pubstate = {published},
+tppubtype = {inproceedings}
+}
