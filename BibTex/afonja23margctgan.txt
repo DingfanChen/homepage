@@ -1,0 +1,8 @@
+@inproceedings{afonja2023margctgan,
+  title={MargCTGAN: A “Marginally” Better CTGAN for the Low Sample Regime},
+  author={Afonja, Tejumade and Chen, Dingfan and Fritz, Mario},
+  booktitle={DAGM German Conference on Pattern Recognition (GCPR)},
+  pages={524--537},
+  year={2023},
+  organization={Springer}
+}

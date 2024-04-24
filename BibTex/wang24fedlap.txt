@@ -1,0 +1,6 @@
+@article{wang2023fedlap,
+  title={FedLAP-DP: Federated Learning by Sharing Differentially Private Loss Approximations},
+  author={Wang, Hui-Po and Chen, Dingfan and Kerkouche, Raouf and Fritz, Mario},
+  journal={Proceedings on Privacy Enhancing Technologies (PoPETs)},
+  year={2024}
+}

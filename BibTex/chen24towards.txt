@@ -1,0 +1,6 @@
+@article{chen2024towards,
+title={Towards Biologically Plausible and Private Gene Expression Data Generation},
+author={Chen, Dingfan and Oestreich, Marie and Afonja, Tejumade and Kerkouche, Raouf and Becker, Matthias and Fritz, Mario},
+journal={Proceedings on Privacy Enhancing Technologies (PoPETs)},
+year={2024}
+}

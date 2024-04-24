@@ -1,0 +1,9 @@
+@article{
+chen2024unified,
+title={A Unified View of Differentially Private Deep Generative Modeling},
+author={Dingfan Chen and Raouf Kerkouche and Mario Fritz},
+journal={Transactions on Machine Learning Research (TMLR)},
+issn={2835-8856},
+year={2024},
+note={Survey Certification}
+}

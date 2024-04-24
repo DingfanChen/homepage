@@ -1,0 +1,7 @@
+@inproceedings{
+zhu2024pollmgraph,
+title={PoLLMgraph: Unraveling Hallucinations in Large Language Models via State Transition Dynamics},
+author={Derui Zhu and Dingfan Chen and Qing Li and Zongxiong Chen and Lei Ma and Jens Grossklags and Mario Fritz},
+booktitle={Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+year={2024},
+}
