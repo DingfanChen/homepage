@@ -1,0 +1,6 @@
+@inproceedings{xin2024inside,
+  title={Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders},
+  author={Xin, Yuan and Li, Zheng and Yu, Ning and Chen, Dingfan and Fritz, Mario and Backes, Michael and Zhang, Yang},
+  booktitle = {European Conference on Artificial Intelligence (ECAI)},
+  year={2024}
+}
