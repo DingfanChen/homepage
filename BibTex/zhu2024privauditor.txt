@@ -1,0 +1,7 @@
+@inproceedings{
+zhu2024privauditor,
+title={PrivAuditor: Benchmarking Data Protection Vulnerabilities in {LLM} Adaptation Techniques},
+author={Derui Zhu and Dingfan Chen and Xiongfei Wu and Jiahui Geng and Zhuo Li and Jens Grossklags and Lei Ma},
+booktitle={The Thirty-eight Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track},
+year={2024},
+}
